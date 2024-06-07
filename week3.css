@@ -1,0 +1,83 @@
+div{
+    border: 2px solid gray;
+    width: 550px;
+    height: 1150px;
+    background-color: rgba(229, 221, 221, 0.297);
+    margin: 350px;
+    margin-top: 40px;
+    position: absolute;
+    right: 50px;
+    
+    
+    
+}
+img{
+    margin-top: -41px;
+    width: 550px;
+    height: 447px;
+    
+}
+input{
+    border-radius: 5px;
+    border-color: rgb(223, 219, 219);
+    padding: 12px;
+    margin: 31px;
+    margin-top: 9px;
+    outline: none;   
+}
+input:focus{
+    border-color: blue;
+
+}
+p{
+    margin-top: -132px;
+    margin-left: 30px;
+    color: rgb(82, 77, 77);
+}
+.name{
+    position: relative;
+    top: 5px;
+}
+#adress{ 
+    width: 450px;
+    
+
+    
+}
+#adress:focus{
+    border-color: blue;
+    
+}
+h1{
+    margin: 30px;
+    position: relative;
+    bottom: 120px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+b{
+    position: relative;
+    left: 56px;
+    bottom: 24px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}   
+
+botton{
+    border: 1px solid;
+    border-radius: 6px;
+    padding: 13px;
+    background-color: blue;
+    color: white;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 41px;
+    position: relative;
+    top: 40px;
+}
+.clr:hover{
+    background-color: red;
+    
+    
+
+}
+
